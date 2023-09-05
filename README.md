@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently researching on Anti-cheat research lab.
+- 👯 I’m looking to collaborate on Windows Security & Online Game Security.
+- 🤔 I’m looking for a job related with Online Game Security & Anti-Cheat Research
+- 📫 How to reach me : Discord(gehenay830#3932)
+- ⚡ My favorite sports is swimming.
 <!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
