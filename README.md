@@ -4,7 +4,7 @@
 - 🤔 I’m looking for a job related with Online Game Security & Anti-Cheat Research.
 - ⚡ My favorite sports : swimming
 - 💬 Ask me about Reverse Engineering & Anti-Cheat Research.
-- 📫 How to reach me : Discord(gehenay830#3932)
+<!---- 📫 How to reach me : Discord(gehenay830#3932)-->
 
 <!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
