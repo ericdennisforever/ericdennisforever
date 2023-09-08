@@ -1,9 +1,3 @@
-### I'm a Online Game Security Reseacher . 👋
-- 🔭 I’m currently researching on Anti-cheat research lab.
-- 👯 I’m looking to collaborate on Windows Security & Online Game Security.
-- 🤔 I’m looking for a job related with Online Game Security & Anti-Cheat Research.
-- ⚡ My favorite sports : swimming
-- 💬 Ask me about Reverse Engineering & Anti-Cheat Research.
 <!---- 📫 How to reach me : Discord(gehenay830#3932)-->
 
 <!--- 🔭 I’m currently working on ...
