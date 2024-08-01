@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Overview
-I am a passionate software engineer with an affinity for game security and anti-tamper solutions. I have 10+ years of system-level software development and reverse engineering experience. My skills are based primarily in game development, low level kernel development, debugging, reverse engineering, and hardware assisted virtualization. I favor programming in C/C++, Python, Rust, and Go, however I have a wide variety of skills working with many higher level programming and scripting languages including C#, Java, JS, Python, Lua, and Ruby.![image](https://github.com/user-attachments/assets/308d8f6e-4f2d-443c-a2e9-c08f1958922f)
+I am a passionate software engineer with an affinity for game security and anti-tamper solutions. I have 10+ years of system-level software development and reverse engineering experience. My skills are based primarily in game development, low level kernel development, debugging, reverse engineering, and hardware assisted virtualization. I favor programming in C/C++, Python, Rust, and Go, however I have a wide variety of skills working with many higher level programming and scripting languages including C#, Java, JS, Python, Lua, and Ruby.
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&&logo=c&logoColor=white&color=2bbc8a)
