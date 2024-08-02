@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eae57fec-965c-481d-bfb8-bfa612f2d09a)<!---- 📫 How to reach me : Discord(gehenay830#3932)-->
+<!---- 📫 How to reach me : Discord(gehenay830#3932)-->
 
 <!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## Overview
 I am a passionate software engineer with an affinity for game security and anti-tamper solutions. I have 10+ years of system-level software development and reverse engineering experience. My skills are based primarily in game development, low level kernel development, debugging, reverse engineering, and hardware assisted virtualization. I favor programming in C/C++, Python, Rust, and Go, however I have a wide variety of skills working with many higher level programming and scripting languages including C#, Java, JS, Python, Lua, and Ruby.
 
-Discord: gehenay830#3932
+
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&&logo=c&logoColor=white&color=2bbc8a)
