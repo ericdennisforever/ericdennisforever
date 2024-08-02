@@ -47,13 +47,5 @@ I am a passionate software engineer with an affinity for game security and anti-
  <!-- Connect with me -->
  <h3 align="left">Connect with me:</h3>
  <p align="left">
-  
- <a href="https://twitter.com/ericdennis" target="blank"><img align="center" src="https://github.com/ericdennis/ericdennis/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
- <a href="https://linkedin.com/in/ericdennis" target="blank"><img align="center" src="https://github.com/ericdennis/ericdennis/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
- <a href="https://fb.com/ericdennis" target="blank"><img align="center" src="https://github.com/ericdennis/ericdennis/blob/master/assets/facebook.svg" alt="kmhmubin" height="30" width="30" /></a>
- <a href="https://instagram.com/ericdennis" target="blank"><img align="center" src="https://github.com/ericdennis/ericdennis/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
- <a href="https://hashnode.com/@ericdennis" target="blank"><img align="center" src="https://github.com/ericdennis/ericdennis/blob/master/assets/hashnode.svg" alt="kmhmubin" height="30" width="30" /></a>
- <a href="https://dev.to/ericdennis" target="blank"><img align="center" src="https://github.com/ericdennis/ericdennis/blob/master/assets/dev.svg" alt="kmhmubin" height="30" width="30" /></a>
- <a href="https://mubinsodyssey.com" target="blank"><img align="center" src="https://github.com/ericdennis/ericdennis/blob/master/assets/mubinsodyssey.svg" alt="mubinsodyssey" height="30" width="30" /></a>
-  
+
  </p>
