@@ -41,5 +41,5 @@ I am a passionate software engineer with an affinity for game security and anti-
 
  <!-- retro visitor counter -->
  <p align="center"> 
-  <img src="https://profile-counter.glitch.me/{user-name}/count.svg" />
+  <img src="https://profile-counter.glitch.me/ericdennisforever/count.svg" />
  </p>
