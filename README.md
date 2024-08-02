@@ -38,3 +38,8 @@ I am a passionate software engineer with an affinity for game security and anti-
 <a href="https://github.com/ericdennisforever">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericdennisforever&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ericdennisforever's GitHub Stats" />
 </a>
+
+ <!-- retro visitor counter -->
+ <p align="center"> 
+  <img src="https://profile-counter.glitch.me/{user-name}/count.svg" />
+ </p>
